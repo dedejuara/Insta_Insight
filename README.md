@@ -17,8 +17,8 @@ Untuk menjalankan program ini, pastikan sistem Anda memenuhi persyaratan berikut
   - gradio 3.40.1
   - bs4
   - mediapipe
-- Chromedriver 190.0.6045.105
-- Chrome for Testing (Chromium) 190.0.6045.105
+- [Chromedriver 119.0.6045.105](https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.105/win32/chromedriver-win32.zip)
+- [Chrome for Testing (Chromium) 119.0.6045.105](https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.105/win32/chrome-win32.zip)
 
 Untuk model deteksi wajah, Anda perlu mengunduh file detector yang dapat diakses melalui [tautan ini](https://storage.googleapis.com/mediapipe-models/face_detector/blaze_face_short_range/float16/1/blaze_face_short_range.tflite). Simpan file dengan nama `detector.tflite`.
 
