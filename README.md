@@ -1,4 +1,4 @@
-# Insta_Insight Documentation
+# InstaInsight Documentation
 
 Program Insta_Insight adalah sebuah aplikasi yang mengintegrasikan beberapa proses untuk memberikan wawasan mendalam terhadap media di Instagram. Beberapa proses utama yang dijalankan dalam program ini melibatkan:
 
