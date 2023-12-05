@@ -1,0 +1,4 @@
+selenium==4.15.2
+gradio==3.40.1
+bs4
+mediapipe
