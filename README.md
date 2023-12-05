@@ -57,6 +57,9 @@ NB: Sangat disarankan untuk menggunakan virtual environment.
 
 2. Buka link yang ditampilkan dalam terminal, biasanya pada [http://127.0.0.1:7860/](http://127.0.0.1:7860/).
 3. Aplikasi akan menampilkan antarmuka dengan elemen input user, tombol, dan output dataframe.
+   
+   ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.imgur.com/lPcezsY.png)
+   
 4. Isi kolom input dengan username Instagram yang akan di-scrap.
 5. Klik tombol `Get Insight`, lalu tunggu sampai program selesai, yang biasanya memakan waktu sekitar 20 menit.
 6. Jika berhasil, hasil output berupa dataframe dari scraping, face detection, image classification, dan image captioning akan ditampilkan.
